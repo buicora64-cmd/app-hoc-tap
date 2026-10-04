@@ -1,0 +1,8 @@
+{
+  "name": "Trợ Lý Quản Trị Học Tập – Cô Ra AI ",
+  "description": "Hệ thống quản trị học tập môn tIN HỌC THCS dành cho cô Bùi Thị Ra, trường THCS, THPT NGÔI SAO",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
